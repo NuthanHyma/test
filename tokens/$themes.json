@@ -1,0 +1,156 @@
+[
+  {
+    "id": "136762f08f35c567835f2ef7596ddc1e4c6a1405",
+    "name": "Default",
+    "group": "Core",
+    "selectedTokenSets": {
+      "core/colors": "enabled",
+      "core/defaults": "enabled",
+      "core/dimensions": "enabled",
+      "core/high-contrast": "enabled"
+    },
+    "$figmaStyleReferences": {
+      "colors.black": "S:b311542844d5248664af8c44952e987b658224c9,",
+      "colors.white": "S:3115fd35be1cb3220c8145ccb0d54d9442fe9027,",
+      "colors.gray.100": "S:a9e0cf8b02612bda95ada0ec03fe427bf56d11ba,",
+      "colors.gray.200": "S:f5b9e018213bc10f261d8c369a9b767fdd485be9,",
+      "colors.gray.300": "S:11ad153596fcd87049095f7d336a2165c3c5a235,",
+      "colors.gray.400": "S:2c5b0175516e69a9b9a33bfcdb96fdd2a6704639,",
+      "colors.gray.500": "S:0fefa951247a6076e2fff1ca36c255b2e3b721c7,",
+      "colors.gray.600": "S:55952295e5607dce744fabafe80b7450201cac98,",
+      "colors.gray.700": "S:8eaa122bd9d2061eb356793bf4823f6d9424f25f,",
+      "colors.gray.800": "S:2aacf5c78c916289ee93b5b282c5fac83ae36bc5,",
+      "colors.gray.900": "S:789d018f19bc18d982b012b92cac8027ca6e7cdd,",
+      "colors.blue.100": "S:36adb929fba97d6437aae1394a4e4632b70863b6,",
+      "colors.blue.200": "S:756ca3e72621a7f5cb9af90dd1b89df7004743ca,",
+      "colors.blue.300": "S:833b4ae481909884534364d81ae62d6ba31b8943,",
+      "colors.blue.400": "S:ca903d94498df52bc61652dd4560bae20012b62e,",
+      "colors.blue.500": "S:08c826c8723dee0be26315aea34fca85cc3b1fee,",
+      "colors.blue.600": "S:06f6cff4ec611800eb8ea45d6e4b2130fea8ed8b,",
+      "colors.blue.700": "S:4f5c066d7321e91a1e445889c8bf5a84e479263d,",
+      "colors.blue.800": "S:4c0fd7495aec874177c99a3ea1993c1368453ecb,",
+      "colors.blue.900": "S:1bc5c0131fcc54b8829236cb5cd258b1eca64a29,",
+      "colors.red.100": "S:14a06a9b622bb472c59b67f204ef6ffdd9776649,",
+      "colors.red.200": "S:9234a7efa2302534efc364c050fdebd8ced19fa7,",
+      "colors.red.300": "S:b23d82151b5555cb1aa87d217bc682d12c085f5a,",
+      "colors.red.400": "S:04041eb3f854c17358c12e989d4f91a26ae1f888,",
+      "colors.red.500": "S:8c04a6437ba95f8fc5501532b208617af80132b1,",
+      "colors.red.600": "S:ce16584786e3b2e1052830978eace7165c409f35,",
+      "colors.red.700": "S:648d1450dde925f089f354a38ebe4d154abbbfed,",
+      "colors.red.800": "S:5c62b46653c03ed74d22201a6449f787c17e2659,",
+      "colors.red.900": "S:9f9d7baf43040b6f447d9cda7676552ad41623db,",
+      "colors.yellow.100": "S:7894cdb2ac5b05f39123846c2f1748f6c92410f6,",
+      "colors.yellow.200": "S:bea98c32e4242c61e18a2c1e8480ad3e425f13c2,",
+      "colors.yellow.300": "S:d76d93976d8a7c01190310dd58499c2de93959bc,",
+      "colors.yellow.400": "S:547f33db664e808441263545cfa5d3d61b69d9dc,",
+      "colors.yellow.500": "S:94796a3457d84be5c7b4074d4ad87bb6c1eb7a51,",
+      "colors.yellow.600": "S:4a926f48c4b2e06f3cb5dac7011023dc6cdff878,",
+      "colors.yellow.700": "S:d0b6d78ad4d64dd9a42bc0dbe4b375123463f893,",
+      "colors.yellow.800": "S:31af9eea81f40a6a7fd3dea654994fcce3319184,",
+      "colors.yellow.900": "S:f5681fdc7f25beb0e08c1ed9386f0fc320dc7c3a,"
+    },
+    "$figmaVariableReferences": {},
+    "$figmaCollectionId": "VariableCollectionId:2:169",
+    "$figmaModeId": "2:5"
+  },
+  {
+    "id": "ea30ba62b5221a454d36a5698ee822cb0b40135b",
+    "name": "Light",
+    "group": "Colors",
+    "selectedTokenSets": {
+      "light/primitives": "enabled",
+      "theme": "enabled"
+    },
+    "$figmaStyleReferences": {
+      "button.primary.background": "S:fda0e1c956e027ae02f05f99b629631915879d6f,",
+      "button.primary.text": "S:b170e8a8b22900cc0b9c2cae51a5fb7e3ff081d5,",
+      "card.background": "S:b224945a6f0bdbd3dcecfecf5b59168113baefb1,",
+      "fg.default": "S:2c3db452a825651b2e72ace6a930333746b7ad64,",
+      "fg.muted": "S:17fc206e8c449419887c7570b446b68962705831,",
+      "fg.subtle": "S:27bf8dae42339c327f50c4eff3bea2302dc84562,",
+      "bg.default": "S:384edb6407fb0f0d0152d0abe36f6674c7e6bab6,",
+      "bg.subtle": "S:31350d26e7ca01a1b2db185a24bf877167e6a8ab,",
+      "accent.default": "S:be28b157ddcd18c7d782a1d35247d9110cbea07c,",
+      "accent.onAccent": "S:a4086211079417705fd8ef2f074506bb7cdbf60a,",
+      "accent.bg": "S:a888f03aac1986e0c7a6a289f1db252dc9965885,",
+      "shadows.default": "S:c7e8ba043cb21ec39ffd3fd4f3014d744cd783b7,",
+      "border.default": "S:9dc7300235ebb0baa0bf7ba20b389f7f23ea9c03,",
+      "border.muted": "S:8d9afa6401c21e066f01900873b256aa43b2b245,",
+      "contrast.bg.default": "S:038900ba4d28c71fab27933a2e5a636bbc62ba65,",
+      "contrast.bg.subtle": "S:94cf63332e47c022a553383ff001f4fad5faf97e,",
+      "contrast.border.default": "S:3d100eb66c6208a02aeea311ffead08e70e4a0b8,",
+      "contrast.border.muted": "S:bdaefea0f49ad7076b4817235fa03f57d86e50e3,",
+      "color.test": "S:b874d0ca19f2239b158407b4a8b734e3a26f5e3b,"
+    },
+    "$figmaVariableReferences": {},
+    "$figmaCollectionId": "VariableCollectionId:2:232",
+    "$figmaModeId": "2:6"
+  },
+  {
+    "id": "0b8515aba71168beb6426eb25f058352714dfd8d",
+    "name": "Dark",
+    "group": "Colors",
+    "selectedTokenSets": {
+      "dark/primitives": "enabled",
+      "theme": "enabled"
+    },
+    "$figmaStyleReferences": {
+      "button.primary.background": "S:b9df3af3a1f6a1286495a9b546e2061279e2f3be,",
+      "button.primary.text": "S:7c5d9de56153b36736a70230ad4d0d2be82a0463,",
+      "card.background": "S:730390a5a4280a9123eee2dd2827c8db5213beac,",
+      "fg.default": "S:439157b01a6a67c923246fc57d6b11d947352829,",
+      "fg.muted": "S:daf0d4471369510c9a8ad74baf4bb936e1f1a27b,",
+      "fg.subtle": "S:b07c3822b3c18309765ff9be64b056aaf08e0024,",
+      "bg.default": "S:69125f23e4a0b3ccefcff9df7c221bec0d0fc5a2,",
+      "bg.subtle": "S:0da98fd8ba8fa7a4f501a4773181eff7be3af0f5,",
+      "accent.default": "S:224ba8d33eeaffe35e4c7f44a64f235a38083b6a,",
+      "accent.onAccent": "S:e631673c5764ccca8725d181cfdf30de0bab1a1a,",
+      "accent.bg": "S:1a09710cbc5edeca8b7ca4252200ce1dab798cbf,",
+      "shadows.default": "S:23a8876e4fee8ac27669a5b25100088a93b41e99,",
+      "border.default": "S:aef032d7a3d166dfa82cd99a12b90cfe62fed1e5,",
+      "border.muted": "S:b240227d72eab6cc7517c283d3e1565475296726,",
+      "contrast.bg.default": "S:06e7eab89d375b635f3dc1207322d3b5458d70e1,",
+      "contrast.bg.subtle": "S:7a3decbf0c0b0391f7e831cc603905c5c3ae18fd,",
+      "contrast.border.default": "S:88dc29247129798fec5b69f083a12f50b00a1a81,",
+      "contrast.border.muted": "S:5c2ca81b20258deaba16fb2ce06995d11171a750,"
+    },
+    "$figmaVariableReferences": {},
+    "$figmaCollectionId": "VariableCollectionId:2:232",
+    "$figmaModeId": "2:7"
+  },
+  {
+    "id": "6487a13575a4306a547ba57405c22a2ea31104ea",
+    "name": "RedPlanet",
+    "group": "Brand",
+    "selectedTokenSets": {
+      "overrides/brands/RedPlanet": "enabled"
+    },
+    "$figmaStyleReferences": {
+      "colors.onAccent.default": "S:fefdfceff0971e80927a60b03f98ab54eb8a7a52,",
+      "colors.accent.100": "S:3c018f03753a331c3804ba96fc5adc966fee4f79,",
+      "colors.accent.200": "S:4c6a3319d79f99957e5e4e29f8785a494dbeea06,",
+      "colors.accent.300": "S:9f6a3fd0caa698d9d6e11d83431d41ac7bd4f60a,",
+      "colors.accent.400": "S:f060b79455049f871928dc246f72d73db24158f0,",
+      "colors.accent.500": "S:f006e4c16d31632813a2051bb15295dc931da1a8,",
+      "colors.accent.600": "S:2aaf963ce0fcb70e98f87f6ba3022c85816f3bca,",
+      "colors.accent.700": "S:f469cbae9caeaf59c8441155b5c235207c8cf890,",
+      "colors.accent.800": "S:a5ae3e39665aa0688dba2cb88f3dad66436de4bd,",
+      "colors.accent.900": "S:10178ff0e829b50cfaabf6b6cf9be5c0c8f5906e,"
+    },
+    "$figmaVariableReferences": {},
+    "$figmaCollectionId": "VariableCollectionId:2:255",
+    "$figmaModeId": "2:8"
+  },
+  {
+    "id": "9efe3f212dee5f8608a3142d45c728726b193678",
+    "name": "YellowCab",
+    "group": "Brand",
+    "selectedTokenSets": {
+      "overrides/brands/YellowCab": "enabled"
+    },
+    "$figmaStyleReferences": {},
+    "$figmaVariableReferences": {},
+    "$figmaCollectionId": "VariableCollectionId:2:255",
+    "$figmaModeId": "2:9"
+  }
+]
