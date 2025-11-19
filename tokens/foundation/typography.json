@@ -1,0 +1,185 @@
+{
+  "fontSize": {
+    "4xs": {
+      "$type": "fontSizes",
+      "$value": "0.625rem",
+      "$description": "10px"
+    },
+    "3xs": {
+      "$type": "fontSizes",
+      "$value": "0.75rem",
+      "$description": "12px"
+    },
+    "2xs": {
+      "$type": "fontSizes",
+      "$value": "0.875rem",
+      "$description": "14px"
+    },
+    "xs": {
+      "$type": "fontSizes",
+      "$value": "1rem",
+      "$description": "16px"
+    },
+    "2sm": {
+      "$type": "fontSizes",
+      "$value": "1.125rem",
+      "$description": "18px"
+    },
+    "sm": {
+      "$type": "fontSizes",
+      "$value": "1.25rem",
+      "$description": "20px"
+    },
+    "3sm": {
+      "$type": "fontSizes",
+      "$value": "1.375rem",
+      "$description": "22px"
+    },
+    "md": {
+      "$type": "fontSizes",
+      "$value": "1.5rem",
+      "$description": "24px"
+    },
+    "lg": {
+      "$type": "fontSizes",
+      "$value": "1.75rem",
+      "$description": "28px"
+    },
+    "xl": {
+      "$type": "fontSizes",
+      "$value": "2rem",
+      "$description": "32px"
+    },
+    "2xl": {
+      "$type": "fontSizes",
+      "$value": "2.25rem",
+      "$description": "36px"
+    },
+    "3xl": {
+      "$type": "fontSizes",
+      "$value": "2.5rem",
+      "$description": "40px"
+    },
+    "4xl": {
+      "$type": "fontSizes",
+      "$value": "3rem",
+      "$description": "48px"
+    },
+    "5xl": {
+      "$type": "fontSizes",
+      "$value": "3.5rem",
+      "$description": "56px"
+    },
+    "6xl": {
+      "$type": "fontSizes",
+      "$value": "4rem",
+      "$description": "64px"
+    },
+    "7xl": {
+      "$type": "fontSizes",
+      "$value": "4.5rem",
+      "$description": "72px"
+    }
+  },
+  "lineHeight": {
+    "100": {
+      "$type": "lineHeights",
+      "$value": "1",
+      "$description": "lineheight is 100% of font size"
+    },
+    "125": {
+      "$type": "lineHeights",
+      "$value": "1.20"
+    },
+    "130": {
+      "$type": "lineHeights",
+      "$value": "1.30"
+    },
+    "140": {
+      "$type": "lineHeights",
+      "$value": "1.4"
+    },
+    "150": {
+      "$type": "lineHeights",
+      "$value": "1.5"
+    },
+    "160": {
+      "$type": "lineHeights",
+      "$value": "1.6"
+    },
+    "175": {
+      "$type": "lineHeights",
+      "$value": "1.75"
+    },
+    "180": {
+      "$type": "lineHeights",
+      "$value": "1.80"
+    }
+  },
+  "letterSpacing": {
+    "default": {
+      "$type": "letterSpacing",
+      "$value": "0"
+    },
+    "dense": {
+      "$type": "letterSpacing",
+      "$value": "-0.02"
+    },
+    "loose": {
+      "$type": "letterSpacing",
+      "$value": "0.01"
+    },
+    "looser": {
+      "$type": "letterSpacing",
+      "$value": "0.02"
+    }
+  },
+  "fontWeight": {
+    "thin": {
+      "$type": "fontWeights",
+      "$value": "100"
+    },
+    "extraLight": {
+      "$type": "fontWeights",
+      "$value": "200"
+    },
+    "light": {
+      "$type": "fontWeights",
+      "$value": "300"
+    },
+    "regular": {
+      "$type": "fontWeights",
+      "$value": "400"
+    },
+    "medium": {
+      "$type": "fontWeights",
+      "$value": "500"
+    },
+    "semiBold": {
+      "$type": "fontWeights",
+      "$value": "600"
+    },
+    "bold": {
+      "$type": "fontWeights",
+      "$value": "700"
+    },
+    "extraBold": {
+      "$type": "fontWeights",
+      "$value": "800"
+    },
+    "black": {
+      "$type": "fontWeights",
+      "$value": "900"
+    }
+  },
+  "paragraphSpacing": {
+    "60": {
+      "$type": "paragraphSpacing",
+      "$value": "0.6"
+    },
+    "180": {
+      "$type": "paragraphSpacing",
+      "$value": "1.8"
+    }
+  }
+}

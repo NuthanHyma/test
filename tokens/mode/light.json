@@ -1,0 +1,481 @@
+{
+  "color": {
+    "foreground": {
+      "inverse": {
+        "$type": "color",
+        "$value": "{color.neutral.100}"
+      },
+      "disabled": {
+        "$type": "color",
+        "$value": "{color.neutral.65}"
+      },
+      "subtle": {
+        "$type": "color",
+        "$value": "{color.neutral.40}"
+      },
+      "strong": {
+        "$type": "color",
+        "$value": "{color.neutral.20}"
+      },
+      "default": {
+        "$type": "color",
+        "$value": "{color.neutral.10}"
+      },
+      "inform": {
+        "$type": "color",
+        "$value": "{color.feedback.inform.50}"
+      },
+      "informStrong": {
+        "$type": "color",
+        "$value": "{color.feedback.inform.30}"
+      },
+      "supportive": {
+        "$type": "color",
+        "$value": "{color.supportive.50}"
+      },
+      "supportiveStrong": {
+        "$type": "color",
+        "$value": "{color.supportive.20}"
+      },
+      "assistant": {
+        "$type": "color",
+        "$value": "{color.feedback.assistant.30}"
+      },
+      "warning": {
+        "$type": "color",
+        "$value": "{color.feedback.warning.30}"
+      },
+      "errorStrong": {
+        "$type": "color",
+        "$value": "{color.feedback.error.30}"
+      },
+      "error": {
+        "$type": "color",
+        "$value": "{color.feedback.error.40}"
+      },
+      "success": {
+        "$type": "color",
+        "$value": "{color.feedback.success.40}"
+      },
+      "successStrong": {
+        "$type": "color",
+        "$value": "{color.feedback.success.30}"
+      },
+      "interactive": {
+        "main": {
+          "default": {
+            "$type": "color",
+            "$value": "{color.main.40}"
+          },
+          "hover": {
+            "$type": "color",
+            "$value": "{color.main.30}"
+          },
+          "focus": {
+            "$type": "color",
+            "$value": "{color.main.30}"
+          },
+          "pressed": {
+            "$type": "color",
+            "$value": "{color.main.20}"
+          }
+        },
+        "supportive": {
+          "default": {
+            "$type": "color",
+            "$value": "{color.supportive.40}"
+          },
+          "hover": {
+            "$type": "color",
+            "$value": "{color.supportive.30}"
+          },
+          "focus": {
+            "$type": "color",
+            "$value": "{color.supportive.30}"
+          },
+          "pressed": {
+            "$type": "color",
+            "$value": "{color.supportive.20}"
+          }
+        },
+        "destructive": {
+          "default": {
+            "$type": "color",
+            "$value": "{color.feedback.error.40}"
+          },
+          "hover": {
+            "$type": "color",
+            "$value": "{color.feedback.error.30}"
+          },
+          "focus": {
+            "$type": "color",
+            "$value": "{color.feedback.error.30}"
+          },
+          "pressed": {
+            "$type": "color",
+            "$value": "{color.feedback.error.20}"
+          }
+        }
+      }
+    },
+    "background": {
+      "errorSubtle": {
+        "$type": "color",
+        "$value": "{color.feedback.error.80}"
+      },
+      "error": {
+        "$type": "color",
+        "$value": "{color.feedback.error.50}"
+      },
+      "success": {
+        "$type": "color",
+        "$value": "{color.feedback.success.50}"
+      },
+      "successSubtle": {
+        "$type": "color",
+        "$value": "{color.feedback.success.80}"
+      },
+      "info": {
+        "$type": "color",
+        "$value": "{color.feedback.inform.50}"
+      },
+      "infoSubtle": {
+        "$type": "color",
+        "$value": "{color.feedback.inform.80}"
+      },
+      "warning": {
+        "$type": "color",
+        "$value": "{color.feedback.warning.50}"
+      },
+      "warningSubtle": {
+        "$type": "color",
+        "$value": "{color.feedback.warning.80}"
+      },
+      "supportive": {
+        "$type": "color",
+        "$value": "{color.supportive.40}"
+      },
+      "neutral": {
+        "$type": "color",
+        "$value": "{color.neutral.40}"
+      },
+      "neutralStrong": {
+        "$type": "color",
+        "$value": "{color.neutral.20}"
+      },
+      "neutralSubtle": {
+        "$type": "color",
+        "$value": "{color.neutral.80}"
+      },
+      "main": {
+        "$type": "color",
+        "$value": "{color.main.40}"
+      },
+      "mainSubtle": {
+        "$type": "color",
+        "$value": "{color.main.80}"
+      },
+      "default": {
+        "$type": "color",
+        "$value": "{color.neutral.100}"
+      },
+      "disabled": {
+        "$type": "color",
+        "$value": "{color.neutral.80}"
+      },
+      "shell": {
+        "$type": "color",
+        "$value": "linear-gradient(-45deg, #F2F8FC 0%, #F4F8FA 18%, #F7F7F7 35%, #F7F7F7 68%, #F2F8FC 95% )"
+      },
+      "assistant": {
+        "$type": "color",
+        "$value": "{color.feedback.assistant.50}"
+      },
+      "assistantSubtle": {
+        "$type": "color",
+        "$value": "{color.feedback.assistant.80}"
+      },
+      "appbar": {
+        "$type": "color",
+        "$value": "{color.opaque.glass.subtle}",
+        "$description": "Combine with blur to create appbar background"
+      },
+      "interactive": {
+        "main": {
+          "default": {
+            "$type": "color",
+            "$value": "{color.main.40}"
+          },
+          "hover": {
+            "$type": "color",
+            "$value": "{color.main.30}"
+          },
+          "hoverSubtle": {
+            "$type": "color",
+            "$value": "{color.main.90}"
+          },
+          "focus": {
+            "$type": "color",
+            "$value": "{color.main.30}"
+          },
+          "focusSubtle": {
+            "$type": "color",
+            "$value": "{color.main.90}"
+          },
+          "pressed": {
+            "$type": "color",
+            "$value": "{color.main.20}"
+          },
+          "pressedSubtle": {
+            "$type": "color",
+            "$value": "{color.main.80}"
+          }
+        },
+        "neutral": {
+          "default": {
+            "$type": "color",
+            "$value": "{color.neutral.40}"
+          },
+          "defaultSubtle": {
+            "$type": "color",
+            "$value": "{color.neutral.80}"
+          },
+          "defaultBold": {
+            "$type": "color",
+            "$value": "{color.neutral.20}"
+          },
+          "hoverBold": {
+            "$type": "color",
+            "$value": "{color.neutral.10}"
+          },
+          "hover": {
+            "$type": "color",
+            "$value": "{color.neutral.30}"
+          },
+          "hoverSubtle": {
+            "$type": "color",
+            "$value": "{color.neutral.90}"
+          },
+          "focus": {
+            "$type": "color",
+            "$value": "{color.neutral.30}"
+          },
+          "pressed": {
+            "$type": "color",
+            "$value": "{color.neutral.20}"
+          },
+          "pressedSubtle": {
+            "$type": "color",
+            "$value": "{color.neutral.80}"
+          }
+        },
+        "destructive": {
+          "default": {
+            "$type": "color",
+            "$value": "{color.feedback.error.40}"
+          },
+          "hover": {
+            "$type": "color",
+            "$value": "{color.feedback.error.30}"
+          },
+          "hoverSubtle": {
+            "$type": "color",
+            "$value": "{color.feedback.error.90}"
+          },
+          "focus": {
+            "$type": "color",
+            "$value": "{color.feedback.error.30}"
+          },
+          "focusSubtle": {
+            "$type": "color",
+            "$value": "{color.feedback.error.90}"
+          },
+          "pressed": {
+            "$type": "color",
+            "$value": "{color.feedback.error.20}"
+          },
+          "pressedSubtle": {
+            "$type": "color",
+            "$value": "{color.feedback.error.80}"
+          }
+        },
+        "supportive": {
+          "default": {
+            "$type": "color",
+            "$value": "{color.background.supportive}"
+          },
+          "defaultSubtle": {
+            "$type": "color",
+            "$value": "{color.supportive.80}"
+          },
+          "hover": {
+            "$type": "color",
+            "$value": "{color.supportive.30}"
+          },
+          "hoverSubtle": {
+            "$type": "color",
+            "$value": "{color.supportive.90}"
+          },
+          "pressed": {
+            "$type": "color",
+            "$value": "{color.supportive.20}"
+          },
+          "pressedSubtle": {
+            "$type": "color",
+            "$value": "{color.supportive.80}"
+          }
+        }
+      }
+    },
+    "border": {
+      "disabled": {
+        "$type": "color",
+        "$value": "{color.neutral.60}"
+      },
+      "subtle": {
+        "$type": "color",
+        "$value": "{color.neutral.80}"
+      },
+      "inverse": {
+        "$type": "color",
+        "$value": "{color.neutral.100}"
+      },
+      "focus": {
+        "$type": "color",
+        "$value": "{color.feedback.inform.50}"
+      },
+      "error": {
+        "$type": "color",
+        "$value": "{color.feedback.error.40}"
+      },
+      "success": {
+        "$type": "color",
+        "$value": "{color.feedback.success.40}"
+      },
+      "warning": {
+        "$type": "color",
+        "$value": "{color.feedback.warning.60}"
+      },
+      "interactive": {
+        "main": {
+          "default": {
+            "$type": "color",
+            "$value": "{color.main.40}"
+          },
+          "hover": {
+            "$type": "color",
+            "$value": "{color.main.30}"
+          },
+          "pressed": {
+            "$type": "color",
+            "$value": "{color.main.20}"
+          }
+        },
+        "destructive": {
+          "default": {
+            "$type": "color",
+            "$value": "{color.border.error}"
+          },
+          "hover": {
+            "$type": "color",
+            "$value": "{color.feedback.error.30}"
+          },
+          "pressed": {
+            "$type": "color",
+            "$value": "{color.feedback.error.20}"
+          }
+        },
+        "neutral": {
+          "default": {
+            "$type": "color",
+            "$value": "{color.neutral.70}"
+          },
+          "hover": {
+            "$type": "color",
+            "$value": "{color.neutral.60}"
+          },
+          "pressed": {
+            "$type": "color",
+            "$value": "{color.neutral.20}"
+          }
+        },
+        "supportive": {
+          "default": {
+            "$type": "color",
+            "$value": "{color.supportive.40}"
+          },
+          "hover": {
+            "$type": "color",
+            "$value": "{color.supportive.30}"
+          },
+          "pressed": {
+            "$type": "color",
+            "$value": "{color.supportive.20}"
+          }
+        }
+      }
+    },
+    "graphic": {
+      "rating": {
+        "$type": "color",
+        "$value": "{color.feedback.data.1.65}"
+      },
+      "success": {
+        "$type": "color",
+        "$value": "{color.feedback.success.50}",
+        "$description": "Bright success color for visual elements"
+      },
+      "error": {
+        "$type": "color",
+        "$value": "{color.feedback.error.50}",
+        "$description": "Bright error color for visual elements"
+      },
+      "warning": {
+        "$type": "color",
+        "$value": "{color.feedback.warning.60}",
+        "$description": "Bright warning color for visual elements"
+      },
+      "info": {
+        "$type": "color",
+        "$value": "{color.feedback.inform.50}",
+        "$description": "Bright main color for graphics - not suitable for text"
+      },
+      "assistant": {
+        "$type": "color",
+        "$value": "{color.feedback.assistant.50}"
+      }
+    },
+    "overlay": {
+      "default": {
+        "$type": "color",
+        "$value": "{color.opaque.smoke.medium}"
+      },
+      "subtle": {
+        "$type": "color",
+        "$value": "{color.opaque.smoke.subtle}"
+      }
+    },
+    "boxShadow": {
+      "button": {
+        "mainStrong": {
+          "$type": "color",
+          "$value": "{color.main.20}"
+        },
+        "main": {
+          "$type": "color",
+          "$value": "{color.main.30}"
+        },
+        "mainSubtle": {
+          "$type": "color",
+          "$value": "{color.main.70}"
+        }
+      }
+    }
+  },
+  "appbar": {
+    "backgroundBlur": {
+      "$type": "dimension",
+      "$value": "{blur.md}"
+    }
+  }
+}

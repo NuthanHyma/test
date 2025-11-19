@@ -1,14 +1,16 @@
 {
   "tokenSetOrder": [
-    "core/colors",
-    "core/defaults",
-    "core/dimensions",
-    "core/high-contrast",
-    "dark/primitives",
-    "light/primitives",
-    "overrides/brands/RedPlanet",
-    "overrides/brands/YellowCab",
-    "overrides/high-contrast",
-    "theme"
+    "foundation/color",
+    "foundation/core",
+    "foundation/typography",
+    "theme/default",
+    "theme/wireframe",
+    "mode/light",
+    "responsive/xlarge",
+    "responsive/xsmall",
+    "user/teacher-general",
+    "user/learner-secondary",
+    "user/learner-primary",
+    "typography"
   ]
 }

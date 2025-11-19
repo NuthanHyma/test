@@ -1,0 +1,810 @@
+{
+  "color": {
+    "primitive": {
+      "main": {
+        "10": {
+          "$type": "color",
+          "$value": "oklch({oklch.lightness.10} {oklch.chroma.core.10} {oklch.hue.main})"
+        },
+        "20": {
+          "$type": "color",
+          "$value": "oklch({oklch.lightness.20} {oklch.chroma.core.20} {oklch.hue.main})"
+        },
+        "30": {
+          "$type": "color",
+          "$value": "oklch({oklch.lightness.30} {oklch.chroma.core.30} {oklch.hue.main})"
+        },
+        "40": {
+          "$type": "color",
+          "$value": "oklch({oklch.lightness.40} {oklch.chroma.core.40} {oklch.hue.main})"
+        },
+        "50": {
+          "$type": "color",
+          "$value": "oklch({oklch.lightness.50} {oklch.chroma.core.50} {oklch.hue.main})"
+        },
+        "60": {
+          "$type": "color",
+          "$value": "oklch({oklch.lightness.60} {oklch.chroma.core.60} {oklch.hue.main})"
+        },
+        "65": {
+          "$type": "color",
+          "$value": "oklch({oklch.lightness.65} {oklch.chroma.core.65} {oklch.hue.main})"
+        },
+        "70": {
+          "$type": "color",
+          "$value": "oklch({oklch.lightness.70} {oklch.chroma.core.70} {oklch.hue.main})"
+        },
+        "80": {
+          "$type": "color",
+          "$value": "oklch({oklch.lightness.80} {oklch.chroma.core.80} {oklch.hue.main})"
+        },
+        "90": {
+          "$type": "color",
+          "$value": "oklch({oklch.lightness.90} {oklch.chroma.core.90} {oklch.hue.main})"
+        }
+      },
+      "supportive": {
+        "10": {
+          "$type": "color",
+          "$value": "oklch({oklch.lightness.10} {oklch.chroma.core.10} {oklch.hue.dynamic})"
+        },
+        "20": {
+          "$type": "color",
+          "$value": "oklch({oklch.lightness.20} {oklch.chroma.core.20} {oklch.hue.dynamic})"
+        },
+        "30": {
+          "$type": "color",
+          "$value": "oklch({oklch.lightness.30} {oklch.chroma.core.30} {oklch.hue.dynamic})"
+        },
+        "40": {
+          "$type": "color",
+          "$value": "oklch({oklch.lightness.40} {oklch.chroma.core.40} {oklch.hue.dynamic})"
+        },
+        "50": {
+          "$type": "color",
+          "$value": "oklch({oklch.lightness.50} {oklch.chroma.core.50} {oklch.hue.dynamic})"
+        },
+        "60": {
+          "$type": "color",
+          "$value": "oklch({oklch.lightness.60} {oklch.chroma.core.60} {oklch.hue.dynamic})"
+        },
+        "65": {
+          "$type": "color",
+          "$value": "oklch({oklch.lightness.65} {oklch.chroma.core.65} {oklch.hue.dynamic})"
+        },
+        "70": {
+          "$type": "color",
+          "$value": "oklch({oklch.lightness.70} {oklch.chroma.core.70} {oklch.hue.dynamic})"
+        },
+        "80": {
+          "$type": "color",
+          "$value": "oklch({oklch.lightness.80} {oklch.chroma.core.80} {oklch.hue.dynamic})"
+        },
+        "90": {
+          "$type": "color",
+          "$value": "oklch({oklch.lightness.90} {oklch.chroma.core.90} {oklch.hue.dynamic})"
+        }
+      },
+      "neutral": {
+        "0": {
+          "$type": "color",
+          "$value": "oklch({oklch.lightness.0} {oklch.chroma.core.0} {oklch.hue.neutral})"
+        },
+        "10": {
+          "$type": "color",
+          "$value": "oklch({oklch.lightness.10} {oklch.chroma.core.0} {oklch.hue.neutral})"
+        },
+        "20": {
+          "$type": "color",
+          "$value": "oklch({oklch.lightness.20} {oklch.chroma.core.0} {oklch.hue.neutral})"
+        },
+        "30": {
+          "$type": "color",
+          "$value": "oklch({oklch.lightness.30} {oklch.chroma.core.0} {oklch.hue.neutral})"
+        },
+        "40": {
+          "$type": "color",
+          "$value": "oklch({oklch.lightness.40} {oklch.chroma.core.0} {oklch.hue.neutral})"
+        },
+        "50": {
+          "$type": "color",
+          "$value": "oklch({oklch.lightness.50} {oklch.chroma.core.0} {oklch.hue.neutral})"
+        },
+        "60": {
+          "$type": "color",
+          "$value": "oklch({oklch.lightness.60} {oklch.chroma.core.0} {oklch.hue.neutral})"
+        },
+        "65": {
+          "$type": "color",
+          "$value": "oklch({oklch.lightness.65} {oklch.chroma.core.0} {oklch.hue.neutral})"
+        },
+        "70": {
+          "$type": "color",
+          "$value": "oklch({oklch.lightness.70} {oklch.chroma.core.0} {oklch.hue.neutral})"
+        },
+        "80": {
+          "$type": "color",
+          "$value": "oklch({oklch.lightness.80} {oklch.chroma.core.0} {oklch.hue.neutral})"
+        },
+        "90": {
+          "$type": "color",
+          "$value": "oklch({oklch.lightness.90} {oklch.chroma.core.0} {oklch.hue.neutral})"
+        },
+        "100": {
+          "$type": "color",
+          "$value": "oklch({oklch.lightness.100} {oklch.chroma.core.0} {oklch.hue.neutral})"
+        }
+      },
+      "error": {
+        "10": {
+          "$type": "color",
+          "$value": "oklch({oklch.lightness.10} {oklch.chroma.accent.10} {oklch.hue.error})"
+        },
+        "20": {
+          "$type": "color",
+          "$value": "oklch({oklch.lightness.20} {oklch.chroma.accent.20} {oklch.hue.error})"
+        },
+        "30": {
+          "$type": "color",
+          "$value": "oklch({oklch.lightness.30} {oklch.chroma.accent.30} {oklch.hue.error})"
+        },
+        "40": {
+          "$type": "color",
+          "$value": "oklch({oklch.lightness.40} {oklch.chroma.accent.40} {oklch.hue.error})"
+        },
+        "50": {
+          "$type": "color",
+          "$value": "oklch({oklch.lightness.50} {oklch.chroma.accent.50} {oklch.hue.error})"
+        },
+        "60": {
+          "$type": "color",
+          "$value": "oklch({oklch.lightness.60} {oklch.chroma.accent.60} {oklch.hue.error})"
+        },
+        "65": {
+          "$type": "color",
+          "$value": "oklch({oklch.lightness.65} {oklch.chroma.accent.65} {oklch.hue.error})"
+        },
+        "70": {
+          "$type": "color",
+          "$value": "oklch({oklch.lightness.70} {oklch.chroma.accent.70} {oklch.hue.error})"
+        },
+        "80": {
+          "$type": "color",
+          "$value": "oklch({oklch.lightness.80} {oklch.chroma.accent.80} {oklch.hue.error})"
+        },
+        "90": {
+          "$type": "color",
+          "$value": "oklch({oklch.lightness.90} {oklch.chroma.accent.90} {oklch.hue.error})"
+        }
+      },
+      "success": {
+        "10": {
+          "$type": "color",
+          "$value": "oklch({oklch.lightness.10} {oklch.chroma.accent.10} {oklch.hue.success})"
+        },
+        "20": {
+          "$type": "color",
+          "$value": "oklch({oklch.lightness.20} {oklch.chroma.accent.20} {oklch.hue.success})"
+        },
+        "30": {
+          "$type": "color",
+          "$value": "oklch({oklch.lightness.30} {oklch.chroma.accent.30} {oklch.hue.success})"
+        },
+        "40": {
+          "$type": "color",
+          "$value": "oklch({oklch.lightness.40} {oklch.chroma.accent.40} {oklch.hue.success})"
+        },
+        "50": {
+          "$type": "color",
+          "$value": "oklch({oklch.lightness.50} {oklch.chroma.accent.50} {oklch.hue.success})"
+        },
+        "60": {
+          "$type": "color",
+          "$value": "oklch({oklch.lightness.60} {oklch.chroma.accent.60} {oklch.hue.success})"
+        },
+        "65": {
+          "$type": "color",
+          "$value": "oklch({oklch.lightness.65} {oklch.chroma.accent.65} {oklch.hue.success})"
+        },
+        "70": {
+          "$type": "color",
+          "$value": "oklch({oklch.lightness.70} {oklch.chroma.accent.70} {oklch.hue.success})"
+        },
+        "80": {
+          "$type": "color",
+          "$value": "oklch({oklch.lightness.80} {oklch.chroma.accent.80} {oklch.hue.success})"
+        },
+        "90": {
+          "$type": "color",
+          "$value": "oklch({oklch.lightness.90} {oklch.chroma.accent.90} {oklch.hue.success})"
+        }
+      },
+      "warning": {
+        "10": {
+          "$type": "color",
+          "$value": "oklch({oklch.lightness.10} {oklch.chroma.accent.10} {oklch.hue.warning})"
+        },
+        "20": {
+          "$type": "color",
+          "$value": "oklch({oklch.lightness.20} {oklch.chroma.accent.20} {oklch.hue.warning})"
+        },
+        "30": {
+          "$type": "color",
+          "$value": "oklch({oklch.lightness.30} {oklch.chroma.accent.30} {oklch.hue.warning})"
+        },
+        "40": {
+          "$type": "color",
+          "$value": "oklch({oklch.lightness.40} {oklch.chroma.accent.40} {oklch.hue.warning})"
+        },
+        "50": {
+          "$type": "color",
+          "$value": "oklch({oklch.lightness.50} {oklch.chroma.accent.50} {oklch.hue.warning})"
+        },
+        "60": {
+          "$type": "color",
+          "$value": "oklch({oklch.lightness.60} {oklch.chroma.accent.60} {oklch.hue.warning})"
+        },
+        "65": {
+          "$type": "color",
+          "$value": "oklch({oklch.lightness.65} {oklch.chroma.accent.65} {oklch.hue.warning})"
+        },
+        "70": {
+          "$type": "color",
+          "$value": "oklch({oklch.lightness.70} {oklch.chroma.accent.70} {oklch.hue.warning})"
+        },
+        "80": {
+          "$type": "color",
+          "$value": "oklch({oklch.lightness.80} {oklch.chroma.accent.80} {oklch.hue.warning})"
+        },
+        "90": {
+          "$type": "color",
+          "$value": "oklch({oklch.lightness.90} {oklch.chroma.accent.90} {oklch.hue.warning})"
+        }
+      },
+      "inform": {
+        "10": {
+          "$type": "color",
+          "$value": "oklch({oklch.lightness.10} {oklch.chroma.accent.10} {oklch.hue.inform})"
+        },
+        "20": {
+          "$type": "color",
+          "$value": "oklch({oklch.lightness.20} {oklch.chroma.accent.20} {oklch.hue.inform})"
+        },
+        "30": {
+          "$type": "color",
+          "$value": "oklch({oklch.lightness.30} {oklch.chroma.accent.30} {oklch.hue.inform})"
+        },
+        "40": {
+          "$type": "color",
+          "$value": "oklch({oklch.lightness.40} {oklch.chroma.accent.40} {oklch.hue.inform})"
+        },
+        "50": {
+          "$type": "color",
+          "$value": "oklch({oklch.lightness.50} {oklch.chroma.accent.50} {oklch.hue.inform})"
+        },
+        "60": {
+          "$type": "color",
+          "$value": "oklch({oklch.lightness.60} {oklch.chroma.accent.60} {oklch.hue.inform})"
+        },
+        "65": {
+          "$type": "color",
+          "$value": "oklch({oklch.lightness.65} {oklch.chroma.accent.65} {oklch.hue.inform})"
+        },
+        "70": {
+          "$type": "color",
+          "$value": "oklch({oklch.lightness.70} {oklch.chroma.accent.70} {oklch.hue.inform})"
+        },
+        "80": {
+          "$type": "color",
+          "$value": "oklch({oklch.lightness.80} {oklch.chroma.accent.80} {oklch.hue.inform})"
+        },
+        "90": {
+          "$type": "color",
+          "$value": "oklch({oklch.lightness.90} {oklch.chroma.accent.90} {oklch.hue.inform})"
+        }
+      },
+      "assistant": {
+        "10": {
+          "$type": "color",
+          "$value": "oklch({oklch.lightness.10} {oklch.chroma.accent.10} {oklch.hue.assistant})"
+        },
+        "20": {
+          "$type": "color",
+          "$value": "oklch({oklch.lightness.20} {oklch.chroma.accent.20} {oklch.hue.assistant})"
+        },
+        "30": {
+          "$type": "color",
+          "$value": "oklch({oklch.lightness.30} {oklch.chroma.accent.30} {oklch.hue.assistant})"
+        },
+        "40": {
+          "$type": "color",
+          "$value": "oklch({oklch.lightness.40} {oklch.chroma.accent.40} {oklch.hue.assistant})"
+        },
+        "50": {
+          "$type": "color",
+          "$value": "oklch({oklch.lightness.50} {oklch.chroma.accent.50} {oklch.hue.assistant})"
+        },
+        "60": {
+          "$type": "color",
+          "$value": "oklch({oklch.lightness.60} {oklch.chroma.accent.60} {oklch.hue.assistant})"
+        },
+        "65": {
+          "$type": "color",
+          "$value": "oklch({oklch.lightness.65} {oklch.chroma.accent.65} {oklch.hue.assistant})"
+        },
+        "70": {
+          "$type": "color",
+          "$value": "oklch({oklch.lightness.70} {oklch.chroma.accent.70} {oklch.hue.assistant})"
+        },
+        "80": {
+          "$type": "color",
+          "$value": "oklch({oklch.lightness.80} {oklch.chroma.accent.80} {oklch.hue.assistant})"
+        },
+        "90": {
+          "$type": "color",
+          "$value": "oklch({oklch.lightness.90} {oklch.chroma.accent.90} {oklch.hue.assistant})"
+        }
+      },
+      "opco": {
+        "10": {
+          "$type": "color",
+          "$value": "oklch({oklch.lightness.10} {oklch.chroma.accent.10} {oklch.hue.brand})"
+        },
+        "20": {
+          "$type": "color",
+          "$value": "oklch({oklch.lightness.20} {oklch.chroma.accent.20} {oklch.hue.brand})"
+        },
+        "30": {
+          "$type": "color",
+          "$value": "oklch({oklch.lightness.30} {oklch.chroma.accent.30} {oklch.hue.brand})"
+        },
+        "40": {
+          "$type": "color",
+          "$value": "oklch({oklch.lightness.40} {oklch.chroma.accent.40} {oklch.hue.brand})"
+        },
+        "50": {
+          "$type": "color",
+          "$value": "oklch({oklch.lightness.50} {oklch.chroma.accent.50} {oklch.hue.brand})"
+        },
+        "60": {
+          "$type": "color",
+          "$value": "oklch({oklch.lightness.60} {oklch.chroma.accent.60} {oklch.hue.brand})"
+        },
+        "65": {
+          "$type": "color",
+          "$value": "oklch({oklch.lightness.65} {oklch.chroma.accent.65} {oklch.hue.brand})"
+        },
+        "70": {
+          "$type": "color",
+          "$value": "oklch({oklch.lightness.70} {oklch.chroma.accent.70} {oklch.hue.brand})"
+        },
+        "80": {
+          "$type": "color",
+          "$value": "oklch({oklch.lightness.80} {oklch.chroma.accent.80} {oklch.hue.brand})"
+        },
+        "90": {
+          "$type": "color",
+          "$value": "oklch({oklch.lightness.90} {oklch.chroma.accent.90} {oklch.hue.brand})"
+        }
+      },
+      "data-1": {
+        "10": {
+          "$type": "color",
+          "$value": "oklch({oklch.lightness.10} {oklch.chroma.accent.10} {oklch.hue.data-1})"
+        },
+        "20": {
+          "$type": "color",
+          "$value": "oklch({oklch.lightness.20} {oklch.chroma.accent.20} {oklch.hue.data-1})"
+        },
+        "30": {
+          "$type": "color",
+          "$value": "oklch({oklch.lightness.30} {oklch.chroma.accent.30} {oklch.hue.data-1})"
+        },
+        "40": {
+          "$type": "color",
+          "$value": "oklch({oklch.lightness.40} {oklch.chroma.accent.40} {oklch.hue.data-1})"
+        },
+        "50": {
+          "$type": "color",
+          "$value": "oklch({oklch.lightness.50} {oklch.chroma.accent.50} {oklch.hue.data-1})"
+        },
+        "60": {
+          "$type": "color",
+          "$value": "oklch({oklch.lightness.60} {oklch.chroma.accent.60} {oklch.hue.data-1})"
+        },
+        "65": {
+          "$type": "color",
+          "$value": "oklch({oklch.lightness.65} {oklch.chroma.accent.65} {oklch.hue.data-1})"
+        },
+        "70": {
+          "$type": "color",
+          "$value": "oklch({oklch.lightness.70} {oklch.chroma.accent.70} {oklch.hue.data-1})"
+        },
+        "80": {
+          "$type": "color",
+          "$value": "oklch({oklch.lightness.80} {oklch.chroma.accent.80} {oklch.hue.data-1})"
+        },
+        "90": {
+          "$type": "color",
+          "$value": "oklch({oklch.lightness.90} {oklch.chroma.accent.90} {oklch.hue.data-1})"
+        }
+      },
+      "data-2": {
+        "10": {
+          "$type": "color",
+          "$value": "oklch({oklch.lightness.10} {oklch.chroma.accent.10} {oklch.hue.data-2})"
+        },
+        "20": {
+          "$type": "color",
+          "$value": "oklch({oklch.lightness.20} {oklch.chroma.accent.20} {oklch.hue.data-2})"
+        },
+        "30": {
+          "$type": "color",
+          "$value": "oklch({oklch.lightness.30} {oklch.chroma.accent.30} {oklch.hue.data-2})"
+        },
+        "40": {
+          "$type": "color",
+          "$value": "oklch({oklch.lightness.40} {oklch.chroma.accent.40} {oklch.hue.data-2})"
+        },
+        "50": {
+          "$type": "color",
+          "$value": "oklch({oklch.lightness.50} {oklch.chroma.accent.50} {oklch.hue.data-2})"
+        },
+        "60": {
+          "$type": "color",
+          "$value": "oklch({oklch.lightness.60} {oklch.chroma.accent.60} {oklch.hue.data-2})"
+        },
+        "65": {
+          "$type": "color",
+          "$value": "oklch({oklch.lightness.65} {oklch.chroma.accent.65} {oklch.hue.data-2})"
+        },
+        "70": {
+          "$type": "color",
+          "$value": "oklch({oklch.lightness.70} {oklch.chroma.accent.70} {oklch.hue.data-2})"
+        },
+        "80": {
+          "$type": "color",
+          "$value": "oklch({oklch.lightness.80} {oklch.chroma.accent.80} {oklch.hue.data-2})"
+        },
+        "90": {
+          "$type": "color",
+          "$value": "oklch({oklch.lightness.90} {oklch.chroma.accent.90} {oklch.hue.data-2})"
+        }
+      },
+      "data-3": {
+        "10": {
+          "$type": "color",
+          "$value": "oklch({oklch.lightness.10} {oklch.chroma.accent.10} {oklch.hue.data-3})"
+        },
+        "20": {
+          "$type": "color",
+          "$value": "oklch({oklch.lightness.20} {oklch.chroma.accent.20} {oklch.hue.data-3})"
+        },
+        "30": {
+          "$type": "color",
+          "$value": "oklch({oklch.lightness.30} {oklch.chroma.accent.30} {oklch.hue.data-3})"
+        },
+        "40": {
+          "$type": "color",
+          "$value": "oklch({oklch.lightness.40} {oklch.chroma.accent.40} {oklch.hue.data-3})"
+        },
+        "50": {
+          "$type": "color",
+          "$value": "oklch({oklch.lightness.50} {oklch.chroma.accent.50} {oklch.hue.data-3})"
+        },
+        "60": {
+          "$type": "color",
+          "$value": "oklch({oklch.lightness.60} {oklch.chroma.accent.60} {oklch.hue.data-3})"
+        },
+        "65": {
+          "$type": "color",
+          "$value": "oklch({oklch.lightness.65} {oklch.chroma.accent.65} {oklch.hue.data-3})"
+        },
+        "70": {
+          "$type": "color",
+          "$value": "oklch({oklch.lightness.70} {oklch.chroma.accent.70} {oklch.hue.data-3})"
+        },
+        "80": {
+          "$type": "color",
+          "$value": "oklch({oklch.lightness.80} {oklch.chroma.accent.80} {oklch.hue.data-3})"
+        },
+        "90": {
+          "$type": "color",
+          "$value": "oklch({oklch.lightness.90} {oklch.chroma.accent.90} {oklch.hue.data-3})"
+        }
+      },
+      "data-4": {
+        "10": {
+          "$type": "color",
+          "$value": "oklch({oklch.lightness.10} {oklch.chroma.accent.10} {oklch.hue.data-4})"
+        },
+        "20": {
+          "$type": "color",
+          "$value": "oklch({oklch.lightness.20} {oklch.chroma.accent.20} {oklch.hue.data-4})"
+        },
+        "30": {
+          "$type": "color",
+          "$value": "oklch({oklch.lightness.30} {oklch.chroma.accent.30} {oklch.hue.data-4})"
+        },
+        "40": {
+          "$type": "color",
+          "$value": "oklch({oklch.lightness.40} {oklch.chroma.accent.40} {oklch.hue.data-4})"
+        },
+        "50": {
+          "$type": "color",
+          "$value": "oklch({oklch.lightness.50} {oklch.chroma.accent.50} {oklch.hue.data-4})"
+        },
+        "60": {
+          "$type": "color",
+          "$value": "oklch({oklch.lightness.60} {oklch.chroma.accent.60} {oklch.hue.data-4})"
+        },
+        "65": {
+          "$type": "color",
+          "$value": "oklch({oklch.lightness.65} {oklch.chroma.accent.65} {oklch.hue.data-4})"
+        },
+        "70": {
+          "$type": "color",
+          "$value": "oklch({oklch.lightness.70} {oklch.chroma.accent.70} {oklch.hue.data-4})"
+        },
+        "80": {
+          "$type": "color",
+          "$value": "oklch({oklch.lightness.80} {oklch.chroma.accent.80} {oklch.hue.data-4})"
+        },
+        "90": {
+          "$type": "color",
+          "$value": "oklch({oklch.lightness.90} {oklch.chroma.accent.90} {oklch.hue.data-4})"
+        }
+      },
+      "method": {
+        "10": {
+          "$type": "color",
+          "$value": "oklch({oklch.lightness.10} {oklch.chroma.accent.10} {oklch.hue.method})"
+        },
+        "20": {
+          "$type": "color",
+          "$value": "oklch({oklch.lightness.20} {oklch.chroma.accent.20} {oklch.hue.method})"
+        },
+        "30": {
+          "$type": "color",
+          "$value": "oklch({oklch.lightness.30} {oklch.chroma.accent.30} {oklch.hue.method})"
+        },
+        "40": {
+          "$type": "color",
+          "$value": "oklch({oklch.lightness.40} {oklch.chroma.accent.40} {oklch.hue.method})"
+        },
+        "50": {
+          "$type": "color",
+          "$value": "oklch({oklch.lightness.50} {oklch.chroma.accent.50} {oklch.hue.method})"
+        },
+        "60": {
+          "$type": "color",
+          "$value": "oklch({oklch.lightness.60} {oklch.chroma.accent.60} {oklch.hue.method})"
+        },
+        "65": {
+          "$type": "color",
+          "$value": "oklch({oklch.lightness.65} {oklch.chroma.accent.65} {oklch.hue.method})"
+        },
+        "70": {
+          "$type": "color",
+          "$value": "oklch({oklch.lightness.70} {oklch.chroma.accent.70} {oklch.hue.method})"
+        },
+        "80": {
+          "$type": "color",
+          "$value": "oklch({oklch.lightness.80} {oklch.chroma.accent.80} {oklch.hue.method})"
+        },
+        "90": {
+          "$type": "color",
+          "$value": "oklch({oklch.lightness.90} {oklch.chroma.accent.90} {oklch.hue.method})"
+        }
+      }
+    }
+  },
+  "oklch": {
+    "chroma": {
+      "core": {
+        "0": {
+          "$type": "other",
+          "$value": "0"
+        },
+        "10": {
+          "$type": "other",
+          "$value": "0.0497"
+        },
+        "20": {
+          "$type": "other",
+          "$value": "0.0906"
+        },
+        "30": {
+          "$type": "other",
+          "$value": "0.1136"
+        },
+        "40": {
+          "$type": "other",
+          "$value": "0.1098"
+        },
+        "50": {
+          "$type": "other",
+          "$value": "0.1592"
+        },
+        "60": {
+          "$type": "other",
+          "$value": "0.1463"
+        },
+        "65": {
+          "$type": "other",
+          "$value": "0.0984"
+        },
+        "70": {
+          "$type": "other",
+          "$value": "0.0505"
+        },
+        "80": {
+          "$type": "other",
+          "$value": "0.0284"
+        },
+        "90": {
+          "$type": "other",
+          "$value": "0.0091"
+        }
+      },
+      "accent": {
+        "0": {
+          "$type": "other",
+          "$value": "0"
+        },
+        "10": {
+          "$type": "other",
+          "$value": "0.0600"
+        },
+        "20": {
+          "$type": "other",
+          "$value": "0.1100"
+        },
+        "30": {
+          "$type": "other",
+          "$value": "0.1350"
+        },
+        "40": {
+          "$type": "other",
+          "$value": "0.2200"
+        },
+        "50": {
+          "$type": "other",
+          "$value": "0.2600"
+        },
+        "60": {
+          "$type": "other",
+          "$value": "0.2200"
+        },
+        "65": {
+          "$type": "other",
+          "$value": "0.1650"
+        },
+        "70": {
+          "$type": "other",
+          "$value": "0.1100"
+        },
+        "80": {
+          "$type": "other",
+          "$value": "0.0650"
+        },
+        "90": {
+          "$type": "other",
+          "$value": "0.0300"
+        }
+      }
+    },
+    "lightness": {
+      "0": {
+        "$type": "other",
+        "$value": "0%"
+      },
+      "10": {
+        "$type": "other",
+        "$value": "17.89%"
+      },
+      "20": {
+        "$type": "other",
+        "$value": "33.32%"
+      },
+      "30": {
+        "$type": "other",
+        "$value": "43.35%"
+      },
+      "40": {
+        "$type": "other",
+        "$value": "53.21%"
+      },
+      "50": {
+        "$type": "other",
+        "$value": "63.70%"
+      },
+      "60": {
+        "$type": "other",
+        "$value": "74.71%"
+      },
+      "65": {
+        "$type": "other",
+        "$value": "82.14%"
+      },
+      "70": {
+        "$type": "other",
+        "$value": "89.56%"
+      },
+      "80": {
+        "$type": "other",
+        "$value": "94.76%"
+      },
+      "90": {
+        "$type": "other",
+        "$value": "97.48%"
+      },
+      "100": {
+        "$type": "other",
+        "$value": "100%"
+      }
+    },
+    "hue": {
+      "dynamic": {
+        "$type": "other",
+        "$value": "240"
+      },
+      "main": {
+        "$type": "other",
+        "$value": "171.11"
+      },
+      "supportive": {
+        "$type": "other",
+        "$value": "254.53"
+      },
+      "neutral": {
+        "$type": "other",
+        "$value": "0"
+      },
+      "error": {
+        "$type": "other",
+        "$value": "20.56"
+      },
+      "success": {
+        "$type": "other",
+        "$value": "140.8"
+      },
+      "warning": {
+        "$type": "other",
+        "$value": "70.28"
+      },
+      "inform": {
+        "$type": "other",
+        "$value": "254.53"
+      },
+      "assistant": {
+        "$type": "other",
+        "$value": "300.3"
+      },
+      "brand": {
+        "$type": "other",
+        "$value": "345"
+      },
+      "data-1": {
+        "$type": "other",
+        "$value": "86.0611"
+      },
+      "data-2": {
+        "$type": "other",
+        "$value": "95"
+      },
+      "data-3": {
+        "$type": "other",
+        "$value": "40"
+      },
+      "data-4": {
+        "$type": "other",
+        "$value": "130"
+      },
+      "method": {
+        "$type": "other",
+        "$value": "293.82"
+      }
+    }
+  }
+}

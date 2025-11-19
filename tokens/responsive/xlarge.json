@@ -1,0 +1,42 @@
+{
+  "fontSize": {
+    "extrasmallest": {
+      "$type": "fontSizes",
+      "$value": "{fontSize.sm}"
+    },
+    "smallest": {
+      "$type": "fontSizes",
+      "$value": "{fontSize.md}"
+    },
+    "smaller": {
+      "$type": "fontSizes",
+      "$value": "{fontSize.lg}"
+    },
+    "big": {
+      "$type": "fontSizes",
+      "$value": "{fontSize.xl}"
+    },
+    "bigger": {
+      "$type": "fontSizes",
+      "$value": "{fontSize.2xl}"
+    },
+    "biggest": {
+      "$type": "fontSizes",
+      "$value": "{fontSize.3xl}"
+    },
+    "mega": {
+      "$type": "fontSizes",
+      "$value": "{fontSize.4xl}"
+    }
+  },
+  "responsive": {
+    "padding": {
+      "$type": "dimension",
+      "$value": "{dimension.7}"
+    }
+  },
+  "ResponsiveVariants": {
+    "$type": "text",
+    "$value": "xl"
+  }
+}

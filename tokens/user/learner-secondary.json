@@ -1,0 +1,182 @@
+{
+  "fontFamily": {
+    "heading": {
+      "$type": "fontFamilies",
+      "$value": "{fontFamily.secondary}"
+    },
+    "body": {
+      "$type": "fontFamilies",
+      "$value": "{fontFamily.primary}"
+    }
+  },
+  "fontSize": {
+    "label": {
+      "sm": {
+        "$type": "fontSizes",
+        "$value": "{fontSize.2xs}"
+      },
+      "md": {
+        "$type": "fontSizes",
+        "$value": "{fontSize.xs}"
+      },
+      "lg": {
+        "$type": "fontSizes",
+        "$value": "{fontSize.sm}"
+      }
+    },
+    "heading": {
+      "xs": {
+        "$type": "fontSizes",
+        "$value": "{fontSize.extrasmallest}"
+      },
+      "sm": {
+        "$type": "fontSizes",
+        "$value": "{fontSize.smallest}"
+      },
+      "md": {
+        "$type": "fontSizes",
+        "$value": "{fontSize.smaller}"
+      },
+      "lg": {
+        "$type": "fontSizes",
+        "$value": "{fontSize.big}"
+      },
+      "xl": {
+        "$type": "fontSizes",
+        "$value": "{fontSize.biggest}"
+      },
+      "2xl": {
+        "$type": "fontSizes",
+        "$value": "{fontSize.mega}"
+      }
+    }
+  },
+  "button": {
+    "borderRadius": {
+      "sm": {
+        "$type": "borderRadius",
+        "$value": "{dimension.2_2}"
+      },
+      "md": {
+        "$type": "borderRadius",
+        "$value": "{dimension.3}"
+      },
+      "lg": {
+        "$type": "borderRadius",
+        "$value": "{dimension.3}"
+      }
+    },
+    "elevation": {
+      "primary": {
+        "$type": "boxShadow",
+        "$value": {
+          "x": "{shadow.xpos.xs}",
+          "y": "{shadow.ypos.xs}",
+          "blur": "0",
+          "spread": "0",
+          "color": "{color.boxShadow.button.mainStrong}",
+          "type": "dropShadow"
+        }
+      },
+      "primary-hover": {
+        "$type": "boxShadow",
+        "$value": {
+          "x": "{shadow.xpos.xs}",
+          "y": "{shadow.ypos.xs-hover}",
+          "blur": "0",
+          "spread": "0",
+          "color": "{color.boxShadow.button.mainStrong}",
+          "type": "dropShadow"
+        }
+      },
+      "secondary": {
+        "$type": "boxShadow",
+        "$value": {
+          "x": "{shadow.xpos.xs}",
+          "y": "{shadow.ypos.xs}",
+          "blur": "0",
+          "spread": "0",
+          "color": "{color.boxShadow.button.main}",
+          "type": "dropShadow"
+        }
+      },
+      "secondary-hover": {
+        "$type": "boxShadow",
+        "$value": {
+          "x": "{shadow.xpos.xs}",
+          "y": "{shadow.ypos.xs-hover}",
+          "blur": "0",
+          "spread": "0",
+          "color": "{color.boxShadow.button.main}",
+          "type": "dropShadow"
+        }
+      },
+      "tertiary": {
+        "$type": "boxShadow",
+        "$value": {
+          "x": "{shadow.xpos.xs}",
+          "y": "{shadow.ypos.xs}",
+          "blur": "0",
+          "spread": "0",
+          "color": "{color.boxShadow.button.mainSubtle}",
+          "type": "dropShadow"
+        }
+      },
+      "tertiary-hover": {
+        "$type": "boxShadow",
+        "$value": {
+          "x": "{shadow.xpos.xs}",
+          "y": "{shadow.ypos.xs-hover}",
+          "blur": "0",
+          "spread": "0",
+          "color": "{color.boxShadow.button.mainSubtle}",
+          "type": "dropShadow"
+        }
+      }
+    }
+  },
+  "shadow": {
+    "xpos": {
+      "xs": {
+        "$type": "dimension",
+        "$value": "0px"
+      }
+    },
+    "ypos": {
+      "xs": {
+        "$type": "dimension",
+        "$value": "6px"
+      },
+      "xs-hover": {
+        "$type": "dimension",
+        "$value": "4px"
+      }
+    }
+  },
+  "fontWeight": {
+    "label": {
+      "$type": "fontWeights",
+      "$value": "{fontWeight.medium}"
+    },
+    "labelEmphasis": {
+      "$type": "fontWeights",
+      "$value": "{fontWeight.semiBold}"
+    }
+  },
+  "icon": {
+    "size": {
+      "sm": {
+        "$type": "dimension",
+        "$value": "{fontSize.2xs} * 1.25"
+      }
+    }
+  },
+  "Navigation": {
+    "$type": "text",
+    "$value": "Fixed"
+  },
+  "clasSwitcher": {
+    "$type": "boolean",
+    "$value": "false"
+  }
+}

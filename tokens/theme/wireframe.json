@@ -1,0 +1,52 @@
+{
+  "fontFamily": {
+    "primary": {
+      "$type": "fontFamilies",
+      "$value": "Roboto Mono"
+    },
+    "secondary": {
+      "$type": "fontFamilies",
+      "$value": "Roboto Mono"
+    }
+  },
+  "color": {
+    "main": {
+      "10": {
+        "$type": "color",
+        "$value": "{color.primitive.neutral.10}"
+      },
+      "20": {
+        "$type": "color",
+        "$value": "{color.primitive.neutral.20}"
+      },
+      "30": {
+        "$type": "color",
+        "$value": "{color.primitive.neutral.30}"
+      },
+      "40": {
+        "$type": "color",
+        "$value": "{color.primitive.neutral.40}"
+      },
+      "50": {
+        "$type": "color",
+        "$value": "{color.primitive.neutral.50}"
+      },
+      "60": {
+        "$type": "color",
+        "$value": "{color.primitive.neutral.60}"
+      },
+      "70": {
+        "$type": "color",
+        "$value": "{color.primitive.neutral.70}"
+      },
+      "80": {
+        "$type": "color",
+        "$value": "{color.primitive.neutral.80}"
+      },
+      "90": {
+        "$type": "color",
+        "$value": "{color.primitive.neutral.90}"
+      }
+    }
+  }
+}
